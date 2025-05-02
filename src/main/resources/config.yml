@@ -1,8 +1,8 @@
 feishu:
-  appId: cli_a899879ba738500d
-  appSecret: pS6M4JiGmcqQUKMDcFxljdpJgjtk6vFe
-  userAccessToken: u-fRsmty3IVdjVHlohrIDW2g4knt6gh00VNa00hl6w2fOO
-  documentId: ESCtd8ljoo6Ibox4pfAclGH2nif
+  appId: 需要更换
+  appSecret: 需要更换
+  userAccessToken: 需要更换
+  documentId: 需要更换
 localmarkdownpath:
-  markdownPath: C:\\Users\\28611\\OneDrive\\Desktop\\Redis高级篇之最佳实践.md
-  assetPath: C:\\Users\\28611\\OneDrive\\Desktop\\全部图片\\
+  markdownPath: C:\\file.md 需要更换
+  assetPath: C:\\assets\\ 需要更换
